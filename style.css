@@ -1,0 +1,13 @@
+h1{
+    font-size: 32PX;
+    color: chartreuse;
+    text-align: center;
+}
+.pra-1{
+    background-color: bisque;
+    width: 75%;
+    height: 200px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    text-align: center;
+}
